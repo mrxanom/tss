@@ -1,0 +1,72 @@
+<?xml version="1" encoding="utf-8"?>
+<config>
+	<game ver="0.3.3" code_size="56475648" so="libUE4.so" crc="0x9bbb4b4b">
+		<file name="mrpcs.data" gray="100" a="0052E7DB" b="00000000"/>
+	</game>
+	<game ver="0.4.0" code_size="63023660" so="libUE4.so" crc="0xa132d7cf">
+		<file name="mrpcs.data" gray="100" a="8BE10054" b="00000000"/>
+	</game>
+	<game ver="0.5.0" code_size="58363904" so="libUE4.so" crc="0x68fa43b1">
+		<file name="mrpcs.data" gray="100" a="E004FAFC" b="2680B2E2"/>
+	</game>
+	<game ver="0.6.0" code_size="59359232" so="libUE4.so" crc="0x1963000c">
+		<file name="mrpcs.data" gray="100" a="33BFCA02" b="02B9AB61"/>
+	</game>
+	<game ver="0.7.1" code_size="60043264" so="libUE4.so" crc="0xf42fd1a8">
+		<file name="mrpcs.data" gray="100" a="FF926E7A" b="00000000"/>
+	</game>
+	<game ver="0.8.0" code_size="68143660" so="libUE4.so" crc="0xd815ee98">
+		<file name="mrpcs.data" gray="100" a="16FD427A" b="831C741F"/>
+	</game>
+	<game ver="0.8.3" code_size="68143660" so="libUE4.so" crc="0xed50e4d5">
+		<file name="mrpcs.data" gray="100" a="C0316D89" b="44D2D1E9"/>
+	</game>
+	<game ver="0.8.4" code_size="68143660" so="libUE4.so" crc="0xf10cc518">
+		<file name="mrpcs.data" gray="100" a="0C0D753B" b="00000000"/>
+	</game>
+	<game ver="0.9.0" code_size="78993964" so="libUE4.so" crc="0xfd011520">
+		<file name="mrpcs.data" gray="100" a="EF2C4E38" b="AF44640E"/>
+	</game>
+	<game ver="0.10.0" code_size="77089324" so="libUE4.so" crc="0xa22b6641">
+		<file name="mrpcs.data" gray="100" a="F555CAFC" b="94027011"/>
+	</game>
+	<game ver="0.11.0" code_size="82438700" so="libUE4.so" crc="0x39279d14">
+		<file name="mrpcs.data" gray="100" a="2360C222" b="BBA47B46"/>
+	</game>
+	<game ver="0.11.1" code_size="82438700" so="libUE4.so" crc="0xd63059f3">
+		<file name="mrpcs.data" gray="100" a="CF82FD8D" b="4C58D252"/>
+	</game>
+	<game ver="0.11.2" code_size="82438700" so="libUE4.so" crc="0xe6a8d605">
+		<file name="mrpcs.data" gray="100" a="A4AB7906" b="D223E168"/>
+	</game>
+	<game ver="0.12.0" code_size="84544044" so="libUE4.so" crc="0xe75bae3a">
+		<file name="mrpcs.data" gray="100" a="776CD7DB" b="4AE589EE"/>
+	</game>
+	<game ver="0.12.1" code_size="84560428" so="libUE4.so" crc="0xc0ea98a6">
+		<file name="mrpcs.data" gray="100" a="BF19F0FD" b="00000000"/>
+	</game>
+	<game ver="0.13.0" code_size="86428204" so="libUE4.so" crc="0xfb5f020a">
+		<file name="mrpcs.data" gray="100" a="8321ACBC" b="80619B22"/>
+	</game>
+	<game ver="0.13.1" code_size="86415916" so="libUE4.so" crc="0xe0e4e038">
+		<file name="mrpcs.data" gray="100" a="8321ACBC" b="80619B22"/>
+	</game>
+	<game ver="0.14.0" code_size="88545836" so="libUE4.so" crc="0xe6dcae3d">
+		<file name="mrpcs.data" gray="100" a="32793010" b="E7D140F3"/>
+	</game>
+	<game ver="0.14.1" code_size="88570412" so="libUE4.so" crc="0xa34225e5">
+		<file name="mrpcs.data" gray="100" a="ABD2C588" b="00000000"/>
+	</game>
+	<game ver="0.15.0" code_size="91757100" so="libUE4.so" crc="0x3f13b81c">
+		<file name="mrpcs.data" gray="100" a="31CEE942" b="171200DC"/>
+	</game>
+	<game ver="0.15.1" code_size="91769388" so="libUE4.so" crc="0xb16a4b1c">
+		<file name="mrpcs.data" gray="100" a="2EB59BD0" b="00000000"/>
+	</game>
+	<game ver="0.16.0" code_size="70090060" so="libUE4.so" crc="0xda3779df">
+		<file name="mrpcs.data" gray="100" a="A6DC00C2" b="FCF285E0"/>
+	</game>
+	<game ver="0.16.1" code_size="70090060" so="libUE4.so" crc="0xe58c54b4">
+		<file name="mrpcs.data" gray="100" a="84C64194" b="00000000"/>
+	</game>
+</config>
